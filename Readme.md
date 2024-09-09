@@ -1,7 +1,7 @@
 <!-- Banner: Custom graphic showcasing your design style -->
 <img src="asset/ad banner t y.png" alt="banner" style="width:100%;"/>
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm ZealousZeno! 👋
 ### 🎨 *Graphic Designer | 3D Artist | Visual Storyteller*
 
 Welcome to my creative corner! I specialize in crafting visually stunning graphics and immersive 3D worlds. Design is more than just aesthetics—it's about telling a story and evoking emotion. Explore my work below and feel free to connect!
